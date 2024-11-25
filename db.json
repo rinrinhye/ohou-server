@@ -1,0 +1,1422 @@
+{
+  "interior-pic-posts": [
+    {
+      "id": "8d7f2c4f-3dbb-4a72-8b3b-9cbf568711e9",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_01.jpeg",
+      "userName": "asdf",
+      "userSrc": "assets/interior-pic-posts/user_01.jpeg"
+    },
+
+    {
+      "id": "3c97b61d-c299-417f-a702-9b8eae9ff8e3",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_02.jpeg",
+      "userName": "핑핑이",
+      "userSrc": "assets/interior-pic-posts/user_02.jpeg"
+    },
+    {
+      "id": "72f63c77-6f91-4310-87d5-77d0292ba3ff",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_03.jpeg",
+      "userName": "네모네모",
+      "userSrc": "assets/interior-pic-posts/user_03.jpeg"
+    },
+    {
+      "id": "54f92d13-9f65-4c43-b619-2bb757211410",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_04.jpeg",
+      "userName": "빼빼로",
+      "userSrc": "assets/interior-pic-posts/user_04.jpeg"
+    },
+    {
+      "id": "11243c58-933f-4f0b-9f2b-d90612ed5a51",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_05.jpeg",
+      "userName": "스펀지밥",
+      "userSrc": ""
+    },
+    {
+      "id": "64a82be1-3d6b-46a3-a967-95e5a222f6e9",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_06.jpeg",
+      "userName": "azzzzzzz",
+      "userSrc": ""
+    },
+    {
+      "id": "4c85b4a9-7f94-44c7-a597-b2b6b47e3a98",
+
+      "imageSrc": "assets/interior-pic-posts/interior_pic_07.jpeg",
+      "userName": "조현정",
+      "userSrc": "assets/interior-pic-posts/user_07.jpeg"
+    },
+    {
+      "id": "ffd4e6b5-dfe6-47a6-a627-9b9e0802c5f5",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_08.jpeg",
+      "userName": "spdlf",
+      "userSrc": ""
+    },
+    {
+      "id": "e4ba04e2-c2a2-4c35-b3f7-cd92d2621d63",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_09.jpeg",
+      "userName": "린린",
+      "userSrc": ""
+    },
+    {
+      "id": "4291f477-249b-4158-b14d-fd0133977b1a",
+      "imageSrc": "assets/interior-pic-posts/interior_pic_10.jpeg",
+      "userName": "잠온다",
+      "userSrc": "assets/interior-pic-posts/user_10.jpeg"
+    }
+  ],
+  "today-deal-products": [
+    {
+      "id": "ffe981ab-8f9a-4664-8d8a-82c7ed7e63c7",
+
+      "title": "바른칫솔 & 부광약품 안티프라그 초극세모 칫솔 특가",
+      "brandName": "부광약품",
+      "rating": 4.8,
+      "reviewCount": 250,
+      "discountRate": 55,
+      "price": 8900,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_bugwang_tooth_brush.jpeg"
+    },
+    {
+      "id": "87782311-7674-4082-929f-6e2b9d4386a2",
+
+      "title": "[추가옵션 전품목 990원] [3+1] 네이처 대용량 디퓨저 500ml 실내방향제",
+      "brandName": "에이센트",
+      "rating": 4.8,
+      "reviewCount": 3536,
+      "discountRate": 67,
+      "price": 12900,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_ascent_diffuser.jpeg"
+    },
+    {
+      "id": "0213257e-9a63-4204-8bda-e33b191ed6bc",
+
+      "title": "드리미 X40 Ultra 올인원 로봇청소기+3중컷 브러시 증정(8/29한정)",
+      "brandName": "드리미",
+      "rating": 4.8,
+      "reviewCount": 3536,
+      "discountRate": 56,
+      "price": 1649000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_dreame_robot_vacuum.jpeg"
+    },
+    {
+      "id": "6a9ab62e-6896-477b-bb44-490d9f9d3e39",
+
+      "title": "BEST 화장대,침대,수납장 시리즈",
+      "brandName": "리샘",
+      "rating": 4.8,
+      "reviewCount": 23533,
+      "discountRate": 8,
+      "price": 109000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_lissem_furniture.jpeg"
+    },
+    {
+      "id": "b7fe9f36-d5e4-4094-84b3-80ec240b08c7",
+
+      "title": "시그니앙 골드퍼플 82g 70매 20팩 캡형 아기물티슈",
+      "brandName": "아이러브베베",
+      "rating": 4.9,
+      "reviewCount": 348,
+      "discountRate": 36,
+      "price": 25400,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_ilovebebe_wet_wipes.jpeg"
+    },
+    {
+      "id": "84a2e1b1-2c77-4e7f-bf8e-d71bda01707f",
+
+      "title": "혜택가 59만원대 LG 일반냉장고 B502S33 샤인 멀티냉각 507L",
+      "brandName": "LG전자",
+      "rating": 4.9,
+      "reviewCount": 341,
+      "discountRate": 26,
+      "price": 732000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 5
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_lg_refrigerator.jpeg"
+    },
+    {
+      "id": "b5156ef9-8a9c-4c4b-95ae-e28213bc2d2b",
+
+      "title": "[오늘의딜] 파격사은품 미닉스 미니 건조기 PRO+ 3.5kg",
+      "brandName": "미닉스",
+      "rating": 4.8,
+      "reviewCount": 11884,
+      "discountRate": 26,
+      "price": 732000,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_minix_mini_dryer.jpeg"
+    },
+    {
+      "id": "dc5e8d52-378b-46e6-9a84-bbbf6e9e72cd",
+
+      "title": "[9/7 원데이특가+상품권 증정] 캄포 모듈형 패브릭 소파 (2인/3인/4인/코너형)",
+      "brandName": "까사미아",
+      "rating": 4.7,
+      "reviewCount": 713,
+      "discountRate": 26,
+      "price": 1440000,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_casamia_sofa.jpeg"
+    },
+    {
+      "id": "b404c00f-f441-4644-9417-c9b69838c5a9",
+
+      "title": "[9/7 단,하루 12팩 더]오리지널 플러스 아기물티슈 20매 휴대 캡 12+12팩",
+      "brandName": "브라운물티슈",
+      "rating": 4.8,
+      "reviewCount": 106,
+      "discountRate": 26,
+      "price": 16900,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_brown_wet_wipes.jpeg"
+    },
+    {
+      "id": "3f424ff3-139d-42b2-bce7-365c35e2e8a6",
+
+      "title": "[오늘만57,800원]루미 자동센서 휴지통 20L (5colors)",
+      "brandName": "마리슈타이거",
+      "rating": 4.7,
+      "reviewCount": 3382,
+      "discountRate": 26,
+      "price": 16900,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_mari_steiger_wastebasket.jpeg"
+    },
+    {
+      "id": "f855f6ac-e93c-4cfd-961d-9f071a0244b7",
+      "title": "럭스360 키즈 아기 유아칫솔 7개입 외 4개입,3개입 모음",
+      "brandName": "메가텐",
+      "rating": 4.9,
+      "reviewCount": 30,
+      "discountRate": 40,
+      "price": 25500,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_megaten_tooth_brush.jpeg"
+    }
+  ],
+  "best-products": {
+    "all": [
+      {
+        "id": "1c4e13c2-e62c-46a2-b77a-8a54315f9782",
+
+        "title": "[5%쿠폰] 맞춤 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+        "brandName": "아엠홈",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 16800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_immhome_curtain.jpg"
+      },
+      {
+        "id": "2d1d53ad-6b0f-4dff-97f4-bc1b7b35f4f7",
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_hello_sleep_comforter.jpg"
+      },
+      {
+        "id": "e65b92b0-36c5-4d8e-94c9-6f3b8a8f0bff",
+        "title": "Q4 유로탑 롤팩 매트리스 2size_적당푹신(롤팩)",
+        "brandName": "퀵슬립",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 299900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_quick_sleep_mattress.jpg"
+      }
+    ],
+    "christmas": [
+      {
+        "id": " 429cc36a-5a77-43b2-a97f-f58a536d4400",
+        "title": "항균 방수 가죽 식탁보 테이블보 식탁 테이블 매트 커버 4인 6인용 16컬러 16사이즈",
+        "brandName": "깐깐공주",
+        "rating": 4.8,
+        "reviewCount": 9208,
+        "discountRate": 41,
+        "price": 12900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": false,
+          "specialDeal": true,
+          "sameDelivery": {
+            "time": "12:00"
+          },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_kankangongju_table_cover.jpg"
+      },
+      {
+        "id": "b35fcf23-d416-42f1-8583-2c857907988b",
+
+        "title": "냉동 피자 11종 골라담기 (UNO사각피자/콤비네이션/불고기/크러스트피자 외)",
+        "brandName": "오뚜기",
+        "rating": 4.6,
+        "reviewCount": 1267,
+        "discountRate": 21,
+        "price": 25000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_otoki_pizza.jpg"
+      },
+      {
+        "id": "855e9a2f-2026-4187-9c4d-c9a1f1e56fa2",
+        "title": "1등급 한우 암소 꽃등심 200g 외 선택1",
+        "brandName": "HC한우마을",
+        "rating": 4.7,
+        "reviewCount": 136,
+        "discountRate": 25,
+        "price": 14900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_hchanu_ribeye_steak.jpg"
+      }
+    ],
+    "furniture": [
+      {
+        "id": "9b13b595-d89e-4ea0-9259-efc3e9a5ad9a",
+        "title": "허리 디스크 환자가 만든 코어 릴랙스 매트리스 S,SS,Q,K",
+        "brandName": "수면밀도",
+        "rating": 4.8,
+        "reviewCount": 4364,
+        "discountRate": 62,
+        "price": 299000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_mildo_mattress.jpg"
+      },
+      {
+        "id": "b7a25962-56e1-43a7-9e6c-8c7d2a1d5eb7",
+        "title": "[특별쿠폰] LOUNGE 아쿠아텍스 4인소파(쿠션3개증정)",
+        "brandName": "먼데이하우스",
+        "rating": 4.8,
+        "reviewCount": 2953,
+        "discountRate": 37,
+        "price": 499900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_mondayhouse_sofa.jpg"
+      },
+      {
+        "id": "e65b92b0-36c5-4d8e-94c9-6f3b8a8f0bff",
+        "title": "Q4 유로탑 롤팩 매트리스 2size_적당푹신(롤팩)",
+        "brandName": "퀵슬립",
+        "rating": 4.8,
+        "reviewCount": 11852,
+        "discountRate": 69,
+        "price": 299900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 4
+          }
+        },
+        "imageSrc": "assets/best-products/product_wellfurniture_mattress.jpg"
+      }
+    ],
+    "fabrics": [
+      {
+        "id": "2d1d53ad-6b0f-4dff-97f4-bc1b7b35f4f7",
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_hello_sleep_comforter.jpg"
+      },
+      {
+        "id": "1c4e13c2-e62c-46a2-b77a-8a54315f9782",
+        "title": "[5%쿠폰] 맞춤 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+        "brandName": "아엠홈",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 16800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_immhome_curtain.jpg"
+      },
+      {
+        "id": "1d3ec772-79fe-4a6f-8f1f-c1325f35e678",
+        "title": "맞춤 브라우니 린넨 암막커튼 핀형/아일렛형/형상기억 33색상",
+        "brandName": "데코지오",
+        "rating": 4.6,
+        "reviewCount": 11984,
+        "discountRate": 49,
+        "price": 20200,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_decozio_curtain.jpg"
+      }
+    ],
+    "homeAppliances": [
+      {
+        "id": "67f09888-96b5-44fc-bb76-3e6e2598a5fd",
+
+        "title": "삼성 갤럭시북2 NT550XEZ-A58A 가성비 노트북",
+        "brandName": "삼성전자",
+        "rating": 5,
+        "reviewCount": 303,
+        "discountRate": 20,
+        "price": 556000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": {
+            "time": "15:00"
+          },
+          "paymentDiscount": {
+            "percent": 7
+          }
+        },
+        "imageSrc": "assets/best-products/product_samsung_notebook.jpg"
+      },
+      {
+        "id": "63b3482b-34bb-4ea4-8c39-e5e635a9c957",
+
+        "title": "최종가 152만원 비스포크 WF21CB6850BW+DV20CB8800BW 21kg+20kg",
+        "brandName": "삼성전자",
+        "rating": 4.9,
+        "reviewCount": 62,
+        "discountRate": 45,
+        "price": 1866320,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 8
+          }
+        },
+        "imageSrc": "assets/best-products/product_samsung_washing_machine.jpg"
+      },
+      {
+        "id": "2dfbfde5-1c7d-4fa0-b23d-7ccf3f63150d",
+        "title": "[리퍼] 한정수량 로보락 로봇청소기 S8 Pro Ultra",
+        "brandName": "로보락",
+        "rating": 4.3,
+        "reviewCount": 70,
+        "discountRate": 35,
+        "price": 109000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_roborock_robot_vacuum.jpg"
+      }
+    ],
+    "kitchenware": [
+      {
+        "id": "60a34a59-6d0c-4f6e-b97f-dabfc213c0f6",
+
+        "title": "자동물빠짐 연마제없는 304 올스텐 2단 식기건조대+수저통+접시꽂이+도마걸이",
+        "brandName": "이브리영",
+        "rating": 4.8,
+        "reviewCount": 5681,
+        "discountRate": 10,
+        "price": 58900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "13:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_everyyoung_dish_rack.jpg"
+      },
+      {
+        "id": "54b5a735-bb23-4768-91b1-8350e03630a6",
+
+        "title": "코펜하겐 5종 냄비세트",
+        "brandName": "휘슬러",
+        "rating": 4.8,
+        "reviewCount": 265,
+        "discountRate": 47,
+        "price": 219000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_fissler_pot.jpg"
+      },
+      {
+        "id": "92cd3c21-c8bb-409a-b49a-c542ed619d60",
+        "title": "코펜하겐 5종 냄비세트",
+        "brandName": "바겐슈타이거",
+        "rating": 4.8,
+        "reviewCount": 6030,
+        "discountRate": 40,
+        "price": 14900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_wagensteiger_tray.jpg"
+      }
+    ],
+    "food": [
+      {
+        "id": "35a45b83-83be-4786-9c5c-bcdb7e86a233",
+
+        "title": "아이스티 믹스 복숭아 1.5kg 8개",
+        "brandName": "립톤",
+        "rating": 4.9,
+        "reviewCount": 1199,
+        "discountRate": 27,
+        "price": 109000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_lipton_ice_tea.jpg"
+      },
+      {
+        "id": "ddffb85c-d30e-4668-8eb5-64cfe97c26c1",
+
+        "title": "라인바싸 탄산수 500ml*40입 3종 모음전",
+        "brandName": "동아오츠카",
+        "rating": 4.9,
+        "reviewCount": 1874,
+        "discountRate": 36,
+        "price": 16400,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_donga_otsuka_sparkling_water.jpg"
+      },
+      {
+        "id": "0b7a49d3-5c9b-47f2-b973-d7cb5f5f8572",
+        "title": "상하목장 유기농 멸균 우유 200ml 48팩 + 6팩증정",
+        "brandName": "매일유업",
+        "rating": 4.9,
+        "reviewCount": 505,
+        "discountRate": 20,
+        "price": 46800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_mail_sangha_UHT_milk.jpg"
+      }
+    ],
+    "decor": [
+      {
+        "id": "6c9ac255-428e-4645-b94b-c9c8ca56e17e",
+
+        "title": "[1+1] 대용량 500ml  프리미엄 실내 디퓨저 방향제 +선물박스 +리드스틱",
+        "brandName": "헤트라스",
+        "rating": 4.8,
+        "reviewCount": 10326,
+        "discountRate": 46,
+        "price": 18800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": { "percent": 10 }
+        },
+        "imageSrc": "assets/best-products/product_hetras_diffuser_1+1.gif"
+      },
+      {
+        "id": "5a21e081-4c84-4604-9410-8b62c89f8f8d",
+
+        "title": "[3+1] 네이처 디퓨저 200ml 실내방향제 집들이선물 그린에어리",
+        "brandName": "에이센트",
+        "rating": 4.8,
+        "reviewCount": 53020,
+        "discountRate": 37,
+        "price": 8500,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": false,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_ascent_diffuser.jpg"
+      },
+      {
+        "id": "8ac25d82-f4b9-4ca3-9a6f-dcd6d953f574",
+
+        "title": "[1+2] 대용량 500ml 프리미엄 실내 디퓨저 방향제 + 선물박스 + 리드스틱",
+        "brandName": "헤트라스",
+        "rating": 4.8,
+        "reviewCount": 3558,
+        "discountRate": 50,
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_hetras_diffuser_1+2.gif"
+      }
+    ],
+    "lighting": [
+      {
+        "id": "c5a27b97-cab6-4f76-b73f-bc01981fe9bb",
+
+        "title": "[스마트전구증정] 머쉬룸 장스탠드 순수 국내자체제작 조명 _7colors",
+        "brandName": "아우어룸",
+        "rating": 4.8,
+        "reviewCount": 8559,
+        "discountRate": 31,
+        "price": 12900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_ourroom_floor_lamp.jpg"
+      },
+      {
+        "id": "9ea416a6-cfd7-4b49-a43c-02edc49294a2",
+
+        "title": "공식수입사_톨로메오 메가 테라 플로어조명 크림(무상설치,국내A/S)",
+        "brandName": "아르떼미데",
+        "rating": 4.8,
+        "reviewCount": 116,
+        "discountRate": 10,
+        "price": 1467000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_atremide_floor_lamp.jpg"
+      },
+      {
+        "id": "f4ef6059-70fd-4234-8d99-58f2e626b2fd",
+        "title": "홀리스 스윙 장스탠드 조명_3colors",
+        "brandName": "스피아노",
+        "rating": 4.8,
+        "reviewCount": 2232,
+        "discountRate": 12,
+        "price": 75900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_spiano_floor_lamp.jpg"
+      }
+    ],
+    "storage": [
+      {
+        "id": "8ab51b88-0996-47f2-87f7-1e2f0efc62b3",
+
+        "title": "철제 선반 경량랙 펜트리 베란다 선반장 무볼트 조립식 앵글 전사이즈 모음",
+        "brandName": "스피드랙",
+        "rating": 4.7,
+        "reviewCount": 20361,
+        "discountRate": 54,
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_speedrack_shelf.jpg"
+      },
+      {
+        "id": "ee35f7fc-3f9a-4135-925b-039b9e1a6580",
+
+        "title": "1+1 수비르 서랍장 슬라이딩 리빙박스 옷 수납 옷장 정리 7size",
+        "brandName": "아이리스코리아",
+        "rating": 4.6,
+        "reviewCount": 16082,
+        "discountRate": 33,
+        "price": 17200,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_iriskorea_dresser.jpg"
+      },
+      {
+        "id": "a05d9682-5002-4b75-92ca-bdb45d918773",
+
+        "title": "단독 크림컬러 출시! 논슬립 어깨뿔방지 옷걸이 50개 6colors (니트/정장/맨투맨)",
+        "brandName": "진심감성",
+        "rating": 4.8,
+        "reviewCount": 12061,
+        "discountRate": 63,
+        "price": 30900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "14:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_ginsimgamsung_hanger.jpg"
+      }
+    ],
+    "householdGoods": [
+      {
+        "id": "dc87234f-5b2f-4e6a-b6ad-4acdfab5ef71",
+
+        "title": "리뷰7만! 고중량 40수 호텔수건 200g 코마사 타올10장",
+        "brandName": "코튼리빙",
+        "rating": 4.7,
+        "reviewCount": 78897,
+        "discountRate": 63,
+        "price": 28900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "13:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_cottonliving_towel.jpg"
+      },
+      {
+        "id": "9c943abe-89e1-42fc-b8b7-bec67e52ac43",
+
+        "title": "10L/20L/30L자동센서 쓰레기통 원터치냄새차단(종량제)",
+        "brandName": "다룸",
+        "rating": 4.8,
+        "reviewCount": 5062,
+        "discountRate": 28,
+        "price": 49900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_daroom_transh_can.jpg"
+      },
+      {
+        "id": "38384071-3fd4-42cc-b590-c1c631c22b2b",
+
+        "title": "부피순삭 압축파우치 2세대 XL & XXL 1/3/5개",
+        "brandName": "브랜든",
+        "rating": 4.7,
+        "reviewCount": 630,
+        "discountRate": 21,
+        "price": 43000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": false,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_branden_pouch.jpg"
+      }
+    ],
+    "dailyNecessities": [
+      {
+        "id": "624a56b4-01f3-42e0-a3ff-b1a083ffab19",
+
+        "title": "[고평량/73평량] 두툼한 베베앙 클래스 캡형 70매 10팩 1+1",
+        "brandName": "베베앙 아기물티슈",
+        "rating": 4.9,
+        "reviewCount": 3771,
+        "discountRate": 50,
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_bebean_baby-wipes.jpg"
+      },
+      {
+        "id": "59f8ef7b-8a7b-4411-b8cd-b662a43919d0",
+
+        "title": "시그니처 레드 70매 캡 20팩",
+        "brandName": "베베숲",
+        "rating": 4.9,
+        "reviewCount": 3300,
+        "discountRate": "",
+        "price": 48800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_bebesup_baby_wipes.jpg"
+      },
+      {
+        "id": "d6788a53-c4b7-4720-9983-3bcd63f6c33b",
+        "title": "스너글 초고농축 섬유유연제 대용량 4L 1+1 총 2개",
+        "brandName": "유니레버",
+        "rating": 4.8,
+        "reviewCount": 971,
+        "discountRate": 39,
+        "price": 34900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_unilever_snuggle_fabric_softener.jpg"
+      }
+    ],
+    "kids": [
+      {
+        "id": "84c687f9-04a9-47bc-b6cd-133e7c38fa1d",
+
+        "title": "[해외] 압타밀 프로푸트라 800g 6팩 독일내수용 (1단계/2단계/프레)독일출고",
+        "brandName": "뉴트리시아",
+        "rating": 4.8,
+        "reviewCount": 538,
+        "discountRate": "",
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_nutricia_aptamil_profutura.jpg"
+      },
+      {
+        "id": "b15a94fa-428d-4780-8b10-e5795f3e7ad4",
+
+        "title": "한일 포근 콧물 흡입기",
+        "brandName": "더에르고",
+        "rating": 4.9,
+        "reviewCount": 176,
+        "discountRate": "",
+        "price": 259000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_theergo_nasal_aspirator.jpg"
+      },
+      {
+        "id": "624a56b4-01f3-42e0-a3ff-b1a083ffab19",
+        "title": "[고평량/73평량] 두툼한 베베앙 클래스 캡형 70매 10팩 1+1",
+        "brandName": "베베앙 아기물티슈",
+        "rating": 4.9,
+        "reviewCount": 3771,
+        "discountRate": 50,
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_bebean_baby-wipes.jpg"
+      }
+    ],
+    "pets": [
+      {
+        "id": "16b680f6-93b5-4e1c-b542-4a8f9f9df8c7",
+
+        "title": "미끄럼방지 애견매트 논슬립 펫 강아지 고양이 롤매트",
+        "brandName": "로하우스",
+        "rating": 4.7,
+        "reviewCount": 2237,
+        "discountRate": 23,
+        "price": 9900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_lohouse_pet_roll mat.jpg"
+      },
+      {
+        "id": "0c5ef0f5-74d0-469a-823f-98a60e8d1db1",
+
+        "title": "[블프10%할인]11+1/17+1 강아지 타일카페트 도톰매트 그란데(50/60)",
+        "brandName": "세븐펫",
+        "rating": 4.7,
+        "reviewCount": 1544,
+        "discountRate": 19,
+        "price": 56900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "13:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_sevenpet_pet_mat.jpg"
+      },
+      {
+        "id": "25e828ed-bff9-489a-b6ac-bb5c1f58bc89",
+
+        "title": "[리퍼]신규컬러 입고!pvc 강아지 미끄럼방지 롤매트 두께 6mm",
+        "brandName": "리포소",
+        "rating": 4.7,
+        "reviewCount": 1785,
+        "discountRate": 19,
+        "price": 9700,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_riposo_pet_roll_mat.jpg"
+      }
+    ],
+    "camping": [
+      {
+        "id": "d8b7bc99-dab2-4cd5-9cd9-43cd3bb33e3c",
+
+        "title": "[한정판매] 2세대 초경량 에어리스프로 특대 풀세트 가방+핸드펌프+수리세트",
+        "brandName": "제백",
+        "rating": 4.8,
+        "reviewCount": 1029,
+        "discountRate": 40,
+        "price": 239000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_zebec_airis_pro_set.jpg"
+      },
+      {
+        "id": "67abf528-7f8e-4080-87de-bb27b5a5409f",
+
+        "title": "[예약판매]에어리스퀸 40cm 더블 에어/ 캠핑에어매트 전동펌프포함",
+        "brandName": "제백",
+        "rating": 4.8,
+        "reviewCount": 162,
+        "discountRate": 27,
+        "price": 289000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_zebec_aris_queen.jpg"
+      },
+      {
+        "id": "282bfa7e-4a82-47fe-b2e7-444d49fd5888",
+
+        "title": "구이바다 세라믹 아이보리에디션 M",
+        "brandName": "지라프",
+        "rating": 4.8,
+        "reviewCount": 2504,
+        "discountRate": 22,
+        "price": 139000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_giraffe_guibada_seramic_ivory_edition.jpg"
+      }
+    ],
+    "tools": [
+      {
+        "id": "3d9f4c27-48f6-48eb-9c99-2929c1775f6f",
+
+        "title": "바닥 데코타일 로뎀 50cm(13장/1박스)18colors",
+        "brandName": "매직픽스",
+        "rating": 4.7,
+        "reviewCount": 4364,
+        "discountRate": 14,
+        "price": 35100,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "14:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_magicfix_deco_tiles.jpg"
+      },
+      {
+        "id": "16718f6b-b2a0-4fd6-b3ab-9ba537c85d5d",
+        "title": "데크타일 스토니 36P 3colors - 마감재/백자갈 추가 가능",
+        "brandName": "프로메이드",
+        "rating": 4.7,
+        "reviewCount": 9240,
+        "discountRate": 45,
+        "price": 53900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "13:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_promade_deck_tiles.jpg"
+      },
+      {
+        "id": "7e04d8ea-45ff-42e2-99b1-61d6f12510e6",
+
+        "title": "시그니처 감성 바닥 데코타일 뚝딱타일(9colors)",
+        "brandName": "도든",
+        "rating": 4.8,
+        "reviewCount": 1750,
+        "discountRate": 16,
+        "price": 22500,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "16:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_dodendiy_deco_tiles.jpg"
+      }
+    ],
+    "interior": [
+      {
+        "id": "8d278ad1-e9b7-4efb-9c51-b330d064c1eb",
+
+        "title": "유로 700 베일 주방 싱크대 시공",
+        "brandName": "한샘",
+        "rating": 5,
+        "reviewCount": 2,
+        "discountRate": "",
+        "price": 5560000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_hanssem_euro_700_veil_sink_installation.jpg"
+      },
+      {
+        "id": "b9572f58-fdc9-470a-b7b0-e6d5a3b466da",
+
+        "title": "인생키친 슬림 주방 싱크대 시공 + 가스쿡탑",
+        "brandName": "한샘",
+        "rating": 4.6,
+        "reviewCount": 56,
+        "discountRate": 28,
+        "price": 1620000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_hanssem_insang_kitchen_slim_sink_installation.jpg"
+      },
+      {
+        "id": "7e57940a-7d82-452f-8e98-57378eab684f",
+
+        "title": "에디트그레이 도어 심플수납 (4~8 도어)",
+        "brandName": "한샘",
+        "rating": 5,
+        "reviewCount": 18,
+        "discountRate": 19,
+        "price": 744000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_hanssem_edit_gray_storage installation.jpg"
+      }
+    ],
+    "rental": [
+      {
+        "id": "39f510ff-b41f-4d65-9a4b-626c74284f60",
+
+        "title": "[렌탈] 비스포크 AI 콤보 세탁기 25kg + 건조기 15kg WD25DB8695BC",
+        "brandName": "삼성전자",
+        "rating": "",
+        "reviewCount": "",
+        "discountRate": "",
+        "price": 0,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_samsung_rental_bespoke_washing_machine+25kg_dryer_15kg.jpg"
+      },
+      {
+        "id": "071b8b3c-e7f3-421e-ae4d-45b5c08a2045",
+
+        "title": "[렌탈](가전구독) 힐링미 오브제컬렉션 안마의자 아르테 MH20MM",
+        "brandName": "[구독]LG전자",
+        "rating": "",
+        "reviewCount": "",
+        "discountRate": "",
+        "price": 0,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_lg_rental_healingme_objet_collection_massage_chair_arte_MH20MM.jpg"
+      },
+      {
+        "id": "106d8760-b9c9-45e2-bb75-607fe76b3895",
+
+        "title": "[렌탈](가전구독) 힐링미 MX6 안마의자 MH67BR 핸드모션 입체안마",
+        "brandName": "[구독]LG전자",
+        "rating": "",
+        "reviewCount": "",
+        "discountRate": "",
+        "price": 0,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_lg_rental_healingme_MX6_massage_chair_MG67BR.jpg"
+      }
+    ],
+    "grocery": [
+      {
+        "id": "84c687f9-04a9-47bc-b6cd-133e7c38fa1d",
+        "title": "[해외] 압타밀 프로푸트라 800g 6팩 독일내수용 (1단계/2단계/프레)독일출고",
+        "brandName": "뉴트리시아",
+        "rating": 4.8,
+        "reviewCount": 538,
+        "discountRate": "",
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "15:00" },
+          "paymentDiscount": {
+            "percent": 10
+          }
+        },
+        "imageSrc": "assets/best-products/product_nutricia_aptamil_profutura.jpg"
+      },
+      {
+        "id": "624a56b4-01f3-42e0-a3ff-b1a083ffab19",
+        "title": "[고평량/73평량] 두툼한 베베앙 클래스 캡형 70매 10팩 1+1",
+        "brandName": "베베앙 아기물티슈",
+        "rating": 4.9,
+        "reviewCount": 3771,
+        "discountRate": 50,
+        "price": 25800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": { "time": "12:00" },
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_bebean_baby-wipes.jpg"
+      },
+      {
+        "id": "59f8ef7b-8a7b-4411-b8cd-b662a43919d0",
+        "title": "시그니처 레드 70매 캡 20팩",
+        "brandName": "베베숲",
+        "rating": 4.9,
+        "reviewCount": 3300,
+        "discountRate": "",
+        "price": 48800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_bebesup_baby_wipes.jpg"
+      }
+    ],
+    "wedding": [
+      {
+        "id": "2d1d53ad-6b0f-4dff-97f4-bc1b7b35f4f7",
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_hello_sleep_comforter.jpg"
+      },
+      {
+        "id": "9b13b595-d89e-4ea0-9259-efc3e9a5ad9a",
+        "title": "허리 디스크 환자가 만든 코어 릴랙스 매트리스 S,SS,Q,K",
+        "brandName": "수면밀도",
+        "rating": 4.8,
+        "reviewCount": 4364,
+        "discountRate": 62,
+        "price": 299000,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_mildo_mattress.jpg"
+      },
+      {
+        "id": "b7a25962-56e1-43a7-9e6c-8c7d2a1d5eb7",
+        "title": "[특별쿠폰] LOUNGE 아쿠아텍스 4인소파(쿠션3개증정)",
+        "brandName": "먼데이하우스",
+        "rating": 4.8,
+        "reviewCount": 2953,
+        "discountRate": 37,
+        "price": 499900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_mondayhouse_sofa.jpg"
+      }
+    ]
+  }
+}
